@@ -1,0 +1,19 @@
+TestNG -- unit test framework
+TDD -- Test Driven Development --> along with designing everything or writing codes, we can write our test cases with agile methodology 
+Advantages:
+1. design test cases in a systematic way
+2. generate html reports
+3. gives different annotations
+4. define priorities/sequences of tests - which one should be tested first
+5. define dependency feature
+6. grouping tests
+7. data provider is available
+
+
+
+
+Open sourse -- free
+JAR files
+
+--also called Java unit testing framework - only for Java
+

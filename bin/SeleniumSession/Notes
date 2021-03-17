@@ -1,0 +1,11 @@
+Interview questions:
+
+1. What is OB - object repository? It is a collection of all the web objects or web elements
+
+2. How will you define your Environment Variables? I define them inside config.properties
+
+Page Object Model (POM) is also called Page Chaining Model because all pages are interconnected to each other
+
+Maven is called Build Automation Tool
+
+We need to add apachi poi api to read data from excel file
